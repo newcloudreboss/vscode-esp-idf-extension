@@ -1,5 +1,4 @@
 name: UI Test
-
 on:
   push:
     branches:
